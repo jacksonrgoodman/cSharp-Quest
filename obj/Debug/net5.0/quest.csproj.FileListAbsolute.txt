@@ -1,0 +1,16 @@
+C:\users\jacks\workspace\csharp\quest\bin\Debug\net5.0\quest.exe
+C:\users\jacks\workspace\csharp\quest\bin\Debug\net5.0\quest.deps.json
+C:\users\jacks\workspace\csharp\quest\bin\Debug\net5.0\quest.runtimeconfig.json
+C:\users\jacks\workspace\csharp\quest\bin\Debug\net5.0\quest.runtimeconfig.dev.json
+C:\users\jacks\workspace\csharp\quest\bin\Debug\net5.0\quest.dll
+C:\users\jacks\workspace\csharp\quest\bin\Debug\net5.0\ref\quest.dll
+C:\users\jacks\workspace\csharp\quest\bin\Debug\net5.0\quest.pdb
+C:\users\jacks\workspace\csharp\quest\obj\Debug\net5.0\quest.csprojAssemblyReference.cache
+C:\users\jacks\workspace\csharp\quest\obj\Debug\net5.0\quest.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\jacks\workspace\csharp\quest\obj\Debug\net5.0\quest.AssemblyInfoInputs.cache
+C:\users\jacks\workspace\csharp\quest\obj\Debug\net5.0\quest.AssemblyInfo.cs
+C:\users\jacks\workspace\csharp\quest\obj\Debug\net5.0\quest.csproj.CoreCompileInputs.cache
+C:\users\jacks\workspace\csharp\quest\obj\Debug\net5.0\quest.dll
+C:\users\jacks\workspace\csharp\quest\obj\Debug\net5.0\ref\quest.dll
+C:\users\jacks\workspace\csharp\quest\obj\Debug\net5.0\quest.pdb
+C:\users\jacks\workspace\csharp\quest\obj\Debug\net5.0\quest.genruntimeconfig.cache
