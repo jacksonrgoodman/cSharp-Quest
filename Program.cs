@@ -7,7 +7,7 @@ namespace Quest
 {
     class Program
     {
-        static void Main(string[] args)
+        static void QuestGame()
         {
             // Create a few challenges for our Adventurer's quest
             // The "Challenge" Constructor takes three arguments
@@ -78,6 +78,34 @@ namespace Quest
             {
                 Console.WriteLine("I guess you did...ok? ...sorta. Still, you should get out of my sight.");
             }
+        }
+
+        static void Replay()
+        {
+            Console.Write("Would you like to play again?");
+            Console.WriteLine("<Y/N>");
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "y" || answer == "yes")
+            {
+                Console.Clear();
+                QuestGame();
+            }
+            if (answer == "n" || answer == "no")
+            {
+                Console.Clear();
+                Console.WriteLine("Goodbye!");
+            }
+            else
+            {
+                Console.WriteLine("Could You Be More Clear?");
+                Replay();
+            }
+        }
+        static void Main(string[] args)
+        {
+            Console.Clear();
+            QuestGame();
+            Replay();
         }
     }
 }
