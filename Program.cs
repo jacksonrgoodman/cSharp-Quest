@@ -43,7 +43,7 @@ namespace Quest
             int maxAwesomeness = 100;
 
             // Make a new "Adventurer" object using the "Adventurer" class
-            Console.WriteLine("What doth be thine name?");
+            Console.WriteLine("What doth be thine name, squire?");
             string hero = Console.ReadLine();
             Adventurer theAdventurer = new Adventurer(hero);
 
